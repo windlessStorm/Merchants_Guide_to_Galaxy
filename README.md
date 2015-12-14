@@ -1,3 +1,5 @@
+The program is for solving "Merchant's Guide to the Galaxy". 
+*for more information and instructions read "Instructions.txt" in current folder*
  
 							********************
 							 PROBLEM STATEMENT : 
