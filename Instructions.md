@@ -1,5 +1,5 @@
 Info and Instructions :
---------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
 
  * All the necessary classes source file used for the problem are included in src under package windlessstorm.galaxy.merchant, 
  * Main method is in class GalacticTradingCo.
@@ -7,9 +7,9 @@ Info and Instructions :
  * The output will also be shown on standard output console.
  * Application accepts variable number of conversation lines.
 
------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-=Assumptions= : 
+**Assumptions** : 
 
  * Its assumed that each line is terminated by newline.
  * Questions are assumed to be end with '?'.
